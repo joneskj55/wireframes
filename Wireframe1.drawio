@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T17:09:26.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2r4_5aHu-jXtNjQTa0aR" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T17:43:28.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8TNV_-wjcJR12Fm0ARYe" version="13.9.9" type="github">
   <diagram id="vqAz7mFe_bX8_XPS133d" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="lcX1lfoyKaqcj_of0QZ5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="760" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lcX1lfoyKaqcj_of0QZ5-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="lcX1lfoyKaqcj_of0QZ5-3" value="&lt;font color=&quot;#ff0000&quot;&gt;This will be an image carousel for marketing purposes.&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="220" y="160" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="lcX1lfoyKaqcj_of0QZ5-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/common-toolbar/36/Cut-2-128.png" parent="1" vertex="1">
@@ -102,6 +102,51 @@
         </mxCell>
         <mxCell id="3avs3_zd8cKEyKvQoN6--24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="442" y="540" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--38" value="&lt;font color=&quot;#ff0000&quot;&gt;On hover these buttons will be dropdown lists of clickable events. For example Appointments &amp;gt; Grooming, Boarding, etc.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="700" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--41" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="130" as="sourcePoint" />
+            <mxPoint x="719" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--42" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="130" as="sourcePoint" />
+            <mxPoint x="410" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--43" value="Explanatory text in &lt;font color=&quot;#ff0000&quot;&gt;red&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--45" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;exitX=0.151;exitY=-0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3avs3_zd8cKEyKvQoN6--38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="165" as="sourcePoint" />
+            <mxPoint x="130" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--46" value="&lt;font color=&quot;#ff0000&quot;&gt;These links will take users to appointment scheduling&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="920" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--47" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="920" as="sourcePoint" />
+            <mxPoint x="610" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--48" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1" target="3avs3_zd8cKEyKvQoN6--27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="910" as="sourcePoint" />
+            <mxPoint x="480" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3avs3_zd8cKEyKvQoN6--49" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="910" as="sourcePoint" />
+            <mxPoint x="250" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
