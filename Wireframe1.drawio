@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T19:49:55.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1XdLsP0AVYk7pnXX-lND" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T19:58:20.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2TQYeYFENFyeyeUw6wTd" version="13.10.0" type="github">
   <diagram id="vqAz7mFe_bX8_XPS133d" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4yytLFHdvMiJD-wZ6Ume-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1170" width="760" height="600" as="geometry" />
+          <mxGeometry x="40" y="1170" width="760" height="980" as="geometry" />
         </mxCell>
         <mxCell id="4yytLFHdvMiJD-wZ6Ume-2" value="&lt;font color=&quot;#ff0000&quot;&gt;User clicks to schedule appointment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1140" width="210" height="20" as="geometry" />
@@ -330,6 +330,45 @@
         </mxCell>
         <mxCell id="4yytLFHdvMiJD-wZ6Ume-61" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;9:00am&lt;/font&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;9:30am&lt;/font&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;10:00am&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;10:30am&lt;/font&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1:30pm&lt;/font&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;2:00pm&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;2:30pm&lt;/font&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;3:00pm&lt;/font&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;3:30pm&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="335" y="1590" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;fontColor=#FF0000;" edge="1" parent="1" source="4yytLFHdvMiJD-wZ6Ume-62" target="4yytLFHdvMiJD-wZ6Ume-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-62" value="Unavailable times will be greyed out and un-selectable." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1770" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-64" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#000000&quot;&gt;Add to Calendar&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1850" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2259/512/calendar-128.png;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1910" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/office-flat-8/32/Calendar-128.png;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1910" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/prettyoffice/128/calendar.png;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1910" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-68" value="Users will be able to select which calendar to save the appointment to." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2060" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-69" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569" y="2050" as="sourcePoint" />
+            <mxPoint x="620" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-70" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425.95" y="2050" as="sourcePoint" />
+            <mxPoint x="424.997619047619" y="2010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yytLFHdvMiJD-wZ6Ume-71" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="2040" as="sourcePoint" />
+            <mxPoint x="230" y="2010" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
