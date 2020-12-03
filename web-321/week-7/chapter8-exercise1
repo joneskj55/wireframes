@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T17:27:11.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="CN0L1VGO2d-F3mLdRoA6" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T17:33:23.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1EuZ-juye9CouunrFgTr" version="13.10.6" type="github">
   <diagram id="gtjykzzZ6wWGMkWex_bZ" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,8 +31,35 @@
         <mxCell id="sT8OTQrBT359H2vbyOpS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="450" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sT8OTQrBT359H2vbyOpS-11" value="Class 1: Introduction to JavaScript" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="sT8OTQrBT359H2vbyOpS-11" value="Class 1: Introduction to JavaScript" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-down-b-128.png;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-down-b-128.png;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-down-b-128.png;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-down-b-128.png;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-down-b-128.png;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-17" value="Class 3: Node.js" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-18" value="Class 4: TypeScript" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="610" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-19" value="Class 5: Angular" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="710" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-20" value="Class 2: JavaScript II" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
