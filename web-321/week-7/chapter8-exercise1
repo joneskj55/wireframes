@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T16:49:19.887Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.6" etag="NeZwUkmSTokLAb3wrN85" type="github"><diagram id="gtjykzzZ6wWGMkWex_bZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-03T17:27:11.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="CN0L1VGO2d-F3mLdRoA6" version="13.10.6" type="github">
+  <diagram id="gtjykzzZ6wWGMkWex_bZ" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sT8OTQrBT359H2vbyOpS-1" value="&lt;span lang=&quot;EN-US&quot; class=&quot;TextRun MacChromeBold SCXW97520722 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; background-color: rgb(255 , 255 , 255) ; font-size: 14pt ; line-height: 23.7417px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif ; font-weight: bold&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW97520722 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; background-color: inherit&quot;&gt;Chapter 8, Exercise 1&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW97520722 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; background-color: rgb(255 , 255 , 255) ; font-size: 14pt ; line-height: 23.7417px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="830" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-4" value="There are 20 students available for assigning to five different classes. Using a minimum number of controls, design a Web page that allows the user to &lt;br&gt;assign these students to any of the five classes. The user can unassign students from each class as well as assign them.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="85" width="810" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="220" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="450" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sT8OTQrBT359H2vbyOpS-11" value="Class 1: Introduction to JavaScript" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
