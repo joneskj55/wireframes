@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T21:11:49.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="csdlhx3Q5847ga_cyod1" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T21:14:50.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PK2-MBPZkEuVgETWV9la" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,16 +139,16 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="330" y="1780" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-72" value="Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-72" value="&lt;b&gt;Checkout&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="465.5" y="1980" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-73" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="444" y="1975" width="113" height="30" as="geometry" />
+          <mxGeometry x="447" y="1975" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-74" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="290" y="1975" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-75" value="View Cart" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-75" value="&lt;b&gt;View Cart&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="1980" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-76" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="1">
@@ -346,8 +346,8 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-147" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="333" y="3040" width="183.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-146" value="Proceed to Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="3050" width="130" height="20" as="geometry" />
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-146" value="&lt;b&gt;Proceed to Checkout&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="3050" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-150" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="2500" width="690" height="460" as="geometry" />
@@ -514,7 +514,7 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-211" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="4050" width="133" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-212" value="Register" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-212" value="&lt;b&gt;Register&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="4060" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-213" value="Email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -526,7 +526,7 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-215" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="163.5" y="3750" width="133" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-216" value="Log In" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-216" value="&lt;b&gt;Log In&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="3760" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-217" value="Email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -550,7 +550,7 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-226" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="166" y="4050" width="133" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-227" value="Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-227" value="&lt;b&gt;Checkout&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="4060" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
