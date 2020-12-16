@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T19:17:45.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QDgaaUcd1M6U4rKtMott" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T19:21:07.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yW4hHOB6g46t1dVwzNVQ" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,12 +285,6 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-124" value="&lt;font color=&quot;#ff0000&quot;&gt;**These buttons are static as user scrolls&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1945" width="230" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-125" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="1810" as="sourcePoint" />
-            <mxPoint x="450" y="1760" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-126" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="NEotlR7tS39Ra6Rfo3-W-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
