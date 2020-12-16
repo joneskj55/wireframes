@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T18:18:33.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nFxlAE5p8M7IMO_G2D-9" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T18:22:05.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="catE97Mu97eaHPZ1uRqS" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,6 +183,18 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-82" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.magnifying_glass;pointerEvents=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="530" y="1231" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-83" value="Hello, Guest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1229.25" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-84" value="&lt;font color=&quot;#ff0000&quot;&gt;**If logged in, &#39;Guest&#39; will be replaced by customer name.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1290" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-85" value="" style="endArrow=classic;html=1;exitX=0.547;exitY=-0.2;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="NEotlR7tS39Ra6Rfo3-W-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1312.75" as="sourcePoint" />
+            <mxPoint x="680" y="1252.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
