@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T15:34:29.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="M4tU51dc9aeuw5Jj1wh4" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T15:37:34.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i8lphYCud0S4SWm2ePgO" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,15 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-23" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.left;fillColor=none;direction=west;" vertex="1" parent="1">
           <mxGeometry x="700" y="375" width="36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-25" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;gradientColor=#1A2665;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-128.png;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="141" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-27" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.twitter;gradientColor=#137BD0;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="40" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
