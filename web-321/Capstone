@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T15:46:49.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="M9IXL9IkApYsXaQfCFta" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T16:03:43.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BanIaW0dWoN2swMehW-t" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -430,9 +430,6 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-179" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;Checkout (3 items)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="4620" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-180" value="1. Variety of shipping options (same day, next etc)&lt;br&gt;&lt;strike&gt;2. Enter zip code to get estimated shipping&lt;br&gt;3. Delivery or pickup?&amp;nbsp;&lt;br&gt;&lt;/strike&gt;&lt;strike&gt;5. If delivery add card info&lt;br&gt;6. Save payment information?&lt;/strike&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="4420" width="280" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-181" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="3550" width="300" height="250" as="geometry" />
         </mxCell>
@@ -613,9 +610,6 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-265" value="*Shipping cost will be estimated based off zip code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="4840" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-266" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iArrowIcon;fillColor2=#135Ec8;strokeColor=#ffffff;direction=south;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="592" y="4802.5" width="15" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-267" value="Select state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="4800" width="80" height="20" as="geometry" />
         </mxCell>
@@ -630,12 +624,6 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-272" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Credit Card&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="4900" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-273" value="Card" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="4470" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-274" value="Cash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="4470" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-278" value="&lt;b style=&quot;color: rgb(255 , 0 , 0) ; font-size: 25px&quot;&gt;Account Dashboard&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="8840" width="250" height="20" as="geometry" />
@@ -714,6 +702,84 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-310" value="4. Checkbox for card or cash (pickup only)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="5560" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-311" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="4807" width="12" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-312" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Shipping&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="5020" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-313" value="Same day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="5070" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-314" value="Next day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="5070" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-315" value="No rush" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="512" y="5070" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-316" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Summary&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="5130" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-319" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="5270" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-317" value="&lt;b&gt;Place Order&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="5280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-320" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="5075" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-321" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="506.5" y="5075" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-322" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="5075" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-323" value="&lt;b&gt;Items (3)&lt;/b&gt;: $23.97" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="5160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-324" value="&lt;b&gt;Shipping&lt;/b&gt;: $3.00" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="5180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-325" value="&lt;b&gt;Tax&lt;/b&gt;: $1.00" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="5200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-326" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Total: $27.97&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="5230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-328" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="5220" as="sourcePoint" />
+            <mxPoint x="510" y="5220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-329" value="" style="endArrow=none;html=1;entryX=0.957;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="4880.04" as="sourcePoint" />
+            <mxPoint x="735.3299999999999" y="4880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-330" value="" style="endArrow=none;html=1;entryX=0.957;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="5010.04" as="sourcePoint" />
+            <mxPoint x="735.3299999999999" y="5010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="415" y="5010.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-331" value="" style="endArrow=none;html=1;entryX=0.957;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="5120.04" as="sourcePoint" />
+            <mxPoint x="735.3299999999999" y="5120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-332" value="" style="endArrow=none;html=1;entryX=0.957;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="4720.04" as="sourcePoint" />
+            <mxPoint x="735.3299999999999" y="4720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
