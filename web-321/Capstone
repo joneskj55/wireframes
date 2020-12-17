@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T17:29:38.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="oxiSOnEWIcLe8mECPc6a" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T17:30:33.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="M3ueufxatT4DSWfLpwes" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1022,19 +1022,19 @@
           <mxGeometry x="360" y="9020" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-423" value="REWARDS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="9240" width="80" height="20" as="geometry" />
+          <mxGeometry x="145" y="9236" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-424" value="ORDERS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="149" y="9310" width="70" height="20" as="geometry" />
+          <mxGeometry x="149" y="9306" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-425" value="CREDIT CARDS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="127.75" y="9380" width="110" height="20" as="geometry" />
+          <mxGeometry x="127.75" y="9376" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-426" value="FAVORITES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="142.75" y="9450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-427" value="ABOUT ME" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="9170" width="80" height="20" as="geometry" />
+          <mxGeometry x="145" y="9166" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-429" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
