@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T16:50:59.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AxQnR2cml1c1nigVAWny" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T17:09:41.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TmwGP6uGqjImpEYLwIZM" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -625,9 +625,6 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-281" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="1">
           <mxGeometry x="783" y="5627.25" width="30" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-282" value="Try to do pickup and delivery confirmation on same page. Maybe a line between" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="7710" width="440" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-286" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=none;gradientColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="7810" width="810" height="810" as="geometry" />
         </mxCell>
@@ -975,6 +972,51 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-404" value="Search..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="302" y="8940" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-405" value="Success! Thank you for your order!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="7910" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-406" value="We will send you a confirmation when your order ships." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="7930" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-408" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="7960" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-409" value="&lt;b&gt;Delivery date&lt;/b&gt;: 17 December 2020" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="7974" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-410" value="&lt;b&gt;Ship to&lt;/b&gt;: 123 Customer Address&lt;br&gt;City, State 12345" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="7997" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-411" value="&lt;b&gt;Order total&lt;/b&gt;: $27.97" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="8027" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-412" value="Success! Thank you for your order!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="8250" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-413" value="&lt;font color=&quot;#ff0000&quot;&gt;**Pickup Confirmation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="8210" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-414" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="8130.04" as="sourcePoint" />
+            <mxPoint x="735" y="8129.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-415" value="Your order will be ready for pick up in approximately: 20 minutes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="8270" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-417" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282" y="8310" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-418" value="&lt;b&gt;Store&lt;/b&gt;: Downtown" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="8320" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-419" value="&lt;b&gt;Order number&lt;/b&gt;: 67218" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="8340" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-420" value="&lt;b&gt;Order total&lt;/b&gt;: $24.97" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="8360" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
