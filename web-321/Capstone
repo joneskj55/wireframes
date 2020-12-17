@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T16:03:43.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BanIaW0dWoN2swMehW-t" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T16:09:19.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="X-bF_SQOGfoFz5lDkU-n" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -697,8 +697,8 @@
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-305" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="102.25" y="4990" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-306" value="Save payment information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="112.25" y="4985" width="150" height="20" as="geometry" />
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-306" value="Save this card" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="115.25" y="4985" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-310" value="4. Checkbox for card or cash (pickup only)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="5560" width="240" height="20" as="geometry" />
@@ -771,8 +771,8 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-331" value="" style="endArrow=none;html=1;entryX=0.957;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CCCCCC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="115" y="5120.04" as="sourcePoint" />
-            <mxPoint x="735.3299999999999" y="5120" as="targetPoint" />
+            <mxPoint x="115" y="5114.04" as="sourcePoint" />
+            <mxPoint x="735.3299999999999" y="5114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-332" value="" style="endArrow=none;html=1;entryX=0.957;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CCCCCC;" edge="1" parent="1">
