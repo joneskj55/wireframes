@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T17:09:41.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TmwGP6uGqjImpEYLwIZM" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T17:24:49.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qhyYmrid-bXEDqYCcQio" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -420,9 +420,6 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-173" value="Hello, Guest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="643" y="3420" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NEotlR7tS39Ra6Rfo3-W-178" value="Rewards info&lt;br&gt;Customer info (email, name, etc.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="52.25" y="8830" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-179" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;Checkout (3 items)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="4620" width="240" height="20" as="geometry" />
@@ -1017,6 +1014,96 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-420" value="&lt;b&gt;Order total&lt;/b&gt;: $24.97" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="8360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-421" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="9110" width="210" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-422" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;My Account&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="9020" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-423" value="REWARDS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="9240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-424" value="ORDERS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="9310" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-425" value="CREDIT CARDS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="127.75" y="9380" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-426" value="FAVORITES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="142.75" y="9450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-427" value="ABOUT ME" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="9170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-429" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="9210" as="sourcePoint" />
+            <mxPoint x="270" y="9210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-430" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="9280" as="sourcePoint" />
+            <mxPoint x="270" y="9280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-431" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="9350" as="sourcePoint" />
+            <mxPoint x="269" y="9350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-432" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="9420" as="sourcePoint" />
+            <mxPoint x="269" y="9420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-433" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="9500" as="sourcePoint" />
+            <mxPoint x="270" y="9500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-434" value="" style="endArrow=none;html=1;strokeColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="9140" as="sourcePoint" />
+            <mxPoint x="269" y="9140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-435" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="292" y="9170" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-436" value="&lt;b&gt;Name&lt;/b&gt;: Customer Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="9230" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-437" value="&lt;b&gt;Address&lt;/b&gt;: 123 Customer Address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="9260" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-438" value="&lt;b&gt;City&lt;/b&gt;: Customer City" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="9290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-439" value="&lt;b&gt;State&lt;/b&gt;: Customer State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="9320" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-440" value="&lt;b&gt;Zip&lt;/b&gt;: 00000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="9350" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-441" value="+ Add Image" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="509" y="9110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-443" value="&lt;b&gt;Email&lt;/b&gt;: customer@email.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="9380" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-444" value="&lt;b&gt;Phone&lt;/b&gt;:&lt;b&gt;&amp;nbsp;(&lt;/b&gt;111) 111-1111" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="507" y="9410" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-446" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="9500" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-445" value="&lt;b&gt;Edit Profile&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="9510" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
