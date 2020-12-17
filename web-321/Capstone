@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T14:37:33.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ekhw-H1ffJYvoXkqR09-" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T14:44:27.704Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tMhmhUHgvPL0ZHXz1FR3" version="14.0.1" type="github">
   <diagram id="PT7DZZE7SyPYtBNm7Hnb" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -618,6 +618,21 @@
         </mxCell>
         <mxCell id="NEotlR7tS39Ra6Rfo3-W-265" value="*Shipping cost will be estimated based off zip code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="4860" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-266" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iArrowIcon;fillColor2=#135Ec8;strokeColor=#ffffff;direction=south;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="592" y="4822.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-267" value="Select state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="4820" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-268" value="&lt;i&gt;&lt;font color=&quot;#999999&quot;&gt;123 Your Address Street&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="102.25" y="4820" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-269" value="&lt;i&gt;&lt;font color=&quot;#999999&quot;&gt;Your city name&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="4820" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEotlR7tS39Ra6Rfo3-W-270" value="&lt;i&gt;&lt;font color=&quot;#999999&quot;&gt;12345&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="623" y="4820" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
