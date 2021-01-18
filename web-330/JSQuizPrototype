@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T21:16:26.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="UrQN0T76m-COvYwY9SQW" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T21:19:55.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="OrX17_XSAxMziM-ceAWM" version="14.1.9" type="github">
   <diagram id="dYWfWaao2stmB_Ksauv9" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="1000" height="620" as="geometry" />
+        </mxCell>
         <mxCell id="oZJp5m3zj6XLp2_-k1i--1" value="&lt;font style=&quot;font-size: 30px&quot;&gt;JavaScript Triva&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="50" width="230" height="30" as="geometry" />
+          <mxGeometry x="435" y="170" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oZJp5m3zj6XLp2_-k1i--2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Test your JS knowledge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="100" width="230" height="20" as="geometry" />
+          <mxGeometry x="435" y="220" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Begin Quiz&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="360" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
