@@ -1,2 +1,2 @@
 # wireframes
-Wireframes not tied to a specific web development project.
+Wireframes and prototypes for various web development projects.
