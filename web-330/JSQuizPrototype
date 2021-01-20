@@ -1,56 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T21:29:18.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JphY4KiRXVbZESKmPivw" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T19:28:32.120Z" agent="5.0 (Macintosh)" etag="o1yv2rikPgmnqHGp8gmS" version="14.2.5" type="github">
   <diagram id="dYWfWaao2stmB_Ksauv9" name="Page-1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="900" width="1000" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="50" width="1000" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--1" value="&lt;font style=&quot;font-size: 30px&quot;&gt;JavaScript Triva&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--1" value="&lt;font style=&quot;font-size: 30px&quot;&gt;JavaScript Triva&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="170" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Test your JS knowledge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Test your JS knowledge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="220" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Begin Quiz&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Begin Quiz&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485" y="360" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--8" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Question 1 of 10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--8" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Question 1 of 10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1020" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--9" value="&lt;font style=&quot;font-size: 30px&quot;&gt;JavaScript Trivia&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--9" value="&lt;font style=&quot;font-size: 30px&quot;&gt;JavaScript Trivia&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="970" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Which statement best describes an array?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Which statement best describes an array?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1100" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="420" y="1140" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="420" y="1200" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="420" y="1170" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="420" y="1230" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--16" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--16" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="1135" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--17" value="Right answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--17" value="Right answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="433" y="1195" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--18" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--18" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="1165" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZJp5m3zj6XLp2_-k1i--19" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="oZJp5m3zj6XLp2_-k1i--19" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="1225" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Next&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1275" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1290" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1750" width="1000" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-4" value="&lt;font style=&quot;font-size: 30px&quot;&gt;JavaScript Trivia&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1840" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-5" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Question 5 of 10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1890" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Which statement best describes an array?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1960" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-7" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="438" y="2035" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-8" value="Right answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="2005" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-9" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2095" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-10" value="Wrong answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2065" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2010" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2040" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2070" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2100" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Next&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2150" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-16" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Previous&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2150" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-17" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2165" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9En-k3vz7TJQreQbYMLs-18" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="428" y="2165" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
