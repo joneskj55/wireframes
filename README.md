@@ -1,2 +1,2 @@
 # wireframes
-Wireframes and prototypes for various web development projects.
+Wireframes, prototypes and diagrams for various web development projects.
