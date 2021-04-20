@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2021-04-20T18:57:50.548Z" agent="5.0 (Macintosh)" etag="M8H8Y6BQnRM48mPBvAdL" version="14.6.3" type="github">
+  <diagram id="IQOvOW7_LwPa19zFiCb5" name="Page-1">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="200" y="190" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="220" y="212" width="240" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-2" value="&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;- ItemList&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="192" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-7" value="- Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="216" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="236" width="200" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-6" value="- image" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="254" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-3" value="- address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="249" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-5" value="- openingHours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="251" y="288" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-4" value="- url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="251" y="307" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5k09wxU1Sds3n9FHmKFB-1" value="&lt;div align=&quot;right&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;- WebSite&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="228" y="237" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
