@@ -1,32 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T14:55:26.309Z" agent="5.0 (Macintosh)" etag="zFYcPoLw6GcUR7gHpNmL" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T17:11:24.309Z" agent="5.0 (Macintosh)" etag="62PiCgVAHc34jooAi1ha" version="14.4.8" type="github">
   <diagram id="IQOvOW7_LwPa19zFiCb5" name="Page-1">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="190" width="270" height="160" as="geometry" />
+          <mxGeometry x="200" y="190" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="212" width="230" height="118" as="geometry" />
+          <mxGeometry x="220" y="212" width="240" height="138" as="geometry" />
         </mxCell>
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-2" value="- A list of coffee shops" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="192" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-7" value="- A coffee shop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="222" width="100" height="20" as="geometry" />
+          <mxGeometry x="220" y="213" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi5CRPaLCgvLhPsHswWF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="236" width="200" height="93" as="geometry" />
         </mxCell>
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-6" value="- An image of the shop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="242" width="140" height="20" as="geometry" />
+          <mxGeometry x="250" y="239" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-3" value="- An address for the shop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="262" width="150" height="20" as="geometry" />
+          <mxGeometry x="252" y="259" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-5" value="- Shop hours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="282" width="80" height="20" as="geometry" />
+          <mxGeometry x="255" y="279" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qi5CRPaLCgvLhPsHswWF-4" value="- A URL for the shop website" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="302" width="170" height="20" as="geometry" />
+          <mxGeometry x="252" y="299" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
