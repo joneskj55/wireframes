@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T18:16:08.534Z" agent="5.0 (Macintosh)" version="14.6.3" etag="eHySQkl7NVfgSBgSoeE1" type="github"><diagram id="6Y94Sj2wluhYnAWO5wkN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-21T18:22:57.845Z" agent="5.0 (Macintosh)" etag="kZI0uUPE4jCwmK55oNaP" version="14.6.3" type="github">
+  <diagram id="6Y94Sj2wluhYnAWO5wkN" name="Page-1">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6owUEzUlCbWl-vC4rq2p-1" target="6owUEzUlCbWl-vC4rq2p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-1" value="Collection" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-2" value="&lt;div&gt;Stage&lt;/div&gt;&lt;div&gt;ex: $match&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6owUEzUlCbWl-vC4rq2p-4" target="6owUEzUlCbWl-vC4rq2p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-4" value="&lt;div&gt;Stage&lt;/div&gt;em: $project" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-6" value="Output" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-11" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6owUEzUlCbWl-vC4rq2p-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="260" as="sourcePoint" />
+            <mxPoint x="400" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-16" value="Pipeline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6owUEzUlCbWl-vC4rq2p-17" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="sourcePoint" />
+            <mxPoint x="600" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="160" />
+              <mxPoint x="600" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
