@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T19:44:57.473Z" agent="5.0 (Macintosh)" etag="iAZ-ZqVJnS4Nb9w1JvQU" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T19:47:50.560Z" agent="5.0 (Macintosh)" etag="nKns1SdA0UDITiZJSRRe" version="14.8.4" type="github">
   <diagram id="60dMLfAo_RqgmbLyoDaN" name="Page-1">
     <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -173,6 +173,12 @@
           <mxGeometry x="1" y="1" width="80" height="48" relative="1" as="geometry">
             <mxPoint x="-80" y="-48" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Sf1X1yzcFVw-VW7GqIeA-284" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack/32/10-House-128.png;fontColor=#00BFA5;strokeColor=#BBBBBB;fillColor=#009587;" vertex="1" parent="1">
+          <mxGeometry x="100" y="930" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf1X1yzcFVw-VW7GqIeA-285" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack/32/10-House-128.png;fontColor=#00BFA5;strokeColor=#BBBBBB;fillColor=#009587;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1780" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
