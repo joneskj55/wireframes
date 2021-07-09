@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T17:44:13.266Z" agent="5.0 (Macintosh)" etag="pB76tVKYS2unLO-v4N9O" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T17:47:06.311Z" agent="5.0 (Macintosh)" etag="M0xO3yDfBT_u-bNn2cX4" version="14.8.4" type="github">
   <diagram id="60dMLfAo_RqgmbLyoDaN" name="Page-1">
     <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="Sf1X1yzcFVw-VW7GqIeA-39" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Bob&#39;s Computer Repair&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BDBDBD;" vertex="1" parent="1">
           <mxGeometry x="70" y="920" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf1X1yzcFVw-VW7GqIeA-40" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#FF3333&quot;&gt;HOME PAGE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="30" width="255" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf1X1yzcFVw-VW7GqIeA-41" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#FF3333&quot;&gt;SERVICES&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="880" width="255" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
