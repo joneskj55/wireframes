@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T18:05:48.793Z" agent="5.0 (Macintosh)" etag="kcJPNcDBbOC2iLsGNCsW" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T18:07:11.993Z" agent="5.0 (Macintosh)" etag="nAXkbfj3qnLz4zvzvTXi" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,28 @@
         </mxCell>
         <mxCell id="1DN4tG3W47lQIJ6VYdZV-8" value="1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1DN4tG3W47lQIJ6VYdZV-9" value="Employee" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="510" width="160" height="100" as="geometry">
+            <mxRectangle x="120" y="120" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DN4tG3W47lQIJ6VYdZV-10" value="Part &amp; Labor Costs" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="508" y="510" width="160" height="100" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DN4tG3W47lQIJ6VYdZV-11" value="" style="endArrow=none;html=1;entryX=0;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="569" as="sourcePoint" />
+            <mxPoint x="508" y="568.994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DN4tG3W47lQIJ6VYdZV-12" value="1.*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="468" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1DN4tG3W47lQIJ6VYdZV-13" value="1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="550" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
