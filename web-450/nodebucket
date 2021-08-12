@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T15:38:39.850Z" agent="5.0 (Macintosh)" etag="JaV8jq1VcFZ-hieKHWCa" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T15:45:25.200Z" agent="5.0 (Macintosh)" etag="oYUmSHqNXibtlWXrQuoL" version="14.9.6" type="github">
   <diagram id="FQxyA62SN4rzHNExXoEe" name="Page-1">
     <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -93,6 +93,27 @@
         </mxCell>
         <mxCell id="8U8vHEGQlVRdNkrBOMPS-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png" vertex="1" parent="1">
           <mxGeometry x="770" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1760" width="960" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1955" width="470" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Add Task&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1990" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="2050" width="315" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-46" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="2180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-47" value="&lt;font color=&quot;#FF3333&quot;&gt;*Upon adding task, the new task is added to the end of the &#39;To Do&#39; list&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1730" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-48" value="&lt;font color=&quot;#FF3333&quot;&gt;*All tasks are drag-and-droppable between both columns&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="880" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
