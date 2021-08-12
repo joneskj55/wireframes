@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T15:45:25.200Z" agent="5.0 (Macintosh)" etag="oYUmSHqNXibtlWXrQuoL" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T15:48:24.271Z" agent="5.0 (Macintosh)" etag="eDUwQd95qMjV8icIC2Yc" version="14.9.6" type="github">
   <diagram id="FQxyA62SN4rzHNExXoEe" name="Page-1">
     <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -114,6 +114,15 @@
         </mxCell>
         <mxCell id="8U8vHEGQlVRdNkrBOMPS-48" value="&lt;font color=&quot;#FF3333&quot;&gt;*All tasks are drag-and-droppable between both columns&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="880" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-49" value="&lt;font color=&quot;#FF3333&quot;&gt;*Delete task card&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-50" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="1209" as="sourcePoint" />
+            <mxPoint x="780" y="1200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
