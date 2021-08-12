@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T16:05:44.004Z" agent="5.0 (Macintosh)" etag="3IMMc45ybdKI91HNX4jM" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T16:41:36.093Z" agent="5.0 (Macintosh)" etag="sgeTYWlm7WB7QaS1xZss" version="14.9.6" type="github">
   <diagram id="FQxyA62SN4rzHNExXoEe" name="Page-1">
     <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -141,6 +141,66 @@
         </mxCell>
         <mxCell id="8U8vHEGQlVRdNkrBOMPS-56" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Contact&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="1780" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2640" width="960" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2640" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-59" value="&lt;font style=&quot;font-size: 22px&quot;&gt;nodebucket&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-60" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Contact&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="2660" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-61" value="&lt;font style=&quot;font-size: 20px&quot;&gt;About Us&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="2660" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-67" value="&lt;h1&gt;Who We Are&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The nodebucket team consists of passionate entrepreneurs, designers, and developers with a combined 57 years of experience in their respective careers. Nodebucket LLC is focused on developing and delivering software solutions to individuals, businesses, and generally any organization with a business need. Our mission is to build solutions that we ourselves would love to use every day. This is what drives our process and ensures that everything that we do is high-quality. Our team works tirelessly in order to ensure that our customers are completely satisfied every time they use any of our products.&amp;nbsp; &lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2800" width="610" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-69" value="&lt;h1&gt;The Team&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="3040" width="610" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gcons-2/24/silhouette5-128.png" vertex="1" parent="1">
+          <mxGeometry x="262" y="3090" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gcons-2/24/silhouette5-128.png" vertex="1" parent="1">
+          <mxGeometry x="592" y="3090" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gcons-2/24/silhouette5-128.png" vertex="1" parent="1">
+          <mxGeometry x="760" y="3090" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gcons-2/24/silhouette5-128.png" vertex="1" parent="1">
+          <mxGeometry x="430" y="3090" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-75" value="Kevin Jones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3218" width="70" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-76" value="&lt;b&gt;CEO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="3230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-78" value="&lt;b&gt;CTO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="3233" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-79" value="&lt;b&gt;Designer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="636" y="3232" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-80" value="Phillip Banks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="3220" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-81" value="Deion Sanders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="611" y="3220" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-82" value="Warren Sapp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="3220" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-83" value="&lt;b&gt;Developer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807.5" y="3232" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-84" value="&lt;font color=&quot;#FF3333&quot;&gt;*About Us page&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2610" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
