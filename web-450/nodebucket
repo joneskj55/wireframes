@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T14:40:58.817Z" agent="5.0 (Macintosh)" etag="fxQoFWjFveAESy0PrUal" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T15:38:39.850Z" agent="5.0 (Macintosh)" etag="JaV8jq1VcFZ-hieKHWCa" version="14.9.6" type="github">
   <diagram id="FQxyA62SN4rzHNExXoEe" name="Page-1">
     <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -58,23 +58,41 @@
             <mxPoint x="460" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8U8vHEGQlVRdNkrBOMPS-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-25" value="Build prototype" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1190" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U8vHEGQlVRdNkrBOMPS-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-26" value="Build models" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1255" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U8vHEGQlVRdNkrBOMPS-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-27" value="Write tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1320" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U8vHEGQlVRdNkrBOMPS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-28" value="User stories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1255" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U8vHEGQlVRdNkrBOMPS-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-29" value="Create personas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1190" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U8vHEGQlVRdNkrBOMPS-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-30" value="Build APIs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="1190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="1320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="1390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png" vertex="1" parent="1">
+          <mxGeometry x="770" y="1190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U8vHEGQlVRdNkrBOMPS-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png" vertex="1" parent="1">
+          <mxGeometry x="770" y="1255" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
